@@ -6,4 +6,3 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(parent parent.cpp)
-add_executable(child child.cpp)
